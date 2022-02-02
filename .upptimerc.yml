@@ -8,11 +8,14 @@ sites:
   - name: cesarmelgar
     url: http://cesarmelgar.com
     
+assignees: # Users to assign downtime issues (optional)
+  - jcmrmelgar
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: cesarmelgar.com
-  baseUrl: /upptimeces
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
