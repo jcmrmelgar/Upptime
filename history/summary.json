@@ -22,19 +22,19 @@
     "url": "http://cesarmelgar.com",
     "icon": "https://favicons.githubusercontent.com/cesarmelgar.com",
     "slug": "cesarmelgar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2572,
-    "timeDay": 1436,
-    "timeWeek": 2048,
-    "timeMonth": 2139,
-    "timeYear": 2572,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 2562,
+    "timeDay": 1601,
+    "timeWeek": 2012,
+    "timeMonth": 2127,
+    "timeYear": 2562,
     "dailyMinutesDown": {
-      "2022-04-23": 0
+      "2022-04-23": 26
     }
   }
 ]
