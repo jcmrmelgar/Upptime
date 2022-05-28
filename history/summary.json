@@ -22,7 +22,7 @@
     "url": "http://cesarmelgar.com",
     "icon": "https://favicons.githubusercontent.com/cesarmelgar.com",
     "slug": "cesarmelgar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 4873,
     "timeYear": 3147,
     "dailyMinutesDown": {
+      "2022-05-28": 0,
       "2022-04-23": 26
     }
   }
